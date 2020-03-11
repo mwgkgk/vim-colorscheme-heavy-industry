@@ -47,6 +47,8 @@ hi Delimiter  cterm=NONE ctermfg=Yellow    	gui=NONE guifg=#ffff00
 
 hi Normal ctermbg=234
 
+hi Statement cterm=bold
+
 hi ColorColumn ctermfg=none ctermbg=235
 hi CursorLine cterm=none ctermbg=236
 hi CursorColumn cterm=none ctermbg=236
