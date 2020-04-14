@@ -70,4 +70,8 @@ hi TabLine cterm=none ctermbg=233 ctermfg=242
 hi TabLineSel cterm=none ctermbg=234  ctermfg=250
 hi TabLineFill cterm=none ctermbg=233
 
+hi Pmenu ctermbg=235 ctermfg=11 cterm=none
+hi PmenuSel ctermbg=237 ctermfg=11 cterm=none
+hi PmenuThumb ctermbg=11
+
 hi Title ctermfg=6
