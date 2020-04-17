@@ -75,3 +75,8 @@ hi PmenuSel ctermbg=237 ctermfg=11 cterm=none
 hi PmenuThumb ctermbg=11
 
 hi Title ctermfg=6
+
+hi SpellBad ctermbg=52
+hi SpellRare ctermbg=53
+hi SpellCap ctermbg=54
+hi SpellLocal ctermbg=55
